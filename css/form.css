@@ -87,6 +87,7 @@ body {
   color: #101114;
   font-family: "Public Sans", sans-serif;
   margin: 0 auto;
+  padding: 0px 60px;
 }
 
 input,
@@ -1433,7 +1434,7 @@ select {
   }
 
   body {
-    padding: 0px;
+    padding: 0px 20px;
   }
   .main-f {
     flex-direction: column;
